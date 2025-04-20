@@ -333,7 +333,7 @@ const HomePage = () => {
             Modern app for airtime/data top‑ups, bill payments, and digital services—fast, reliable, and affordable.
           </p>
           <a
-            href="https://super-jara.vercel.app"
+            href="https://superjara-zeta.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-600 hover:underline"
@@ -399,7 +399,7 @@ const HomePage = () => {
             Healthcare app to connect patients with providers, manage appointments, and access health resources seamlessly.
           </p>
           <a
-            href="https://med-care.vercel.app"
+            href="https://medcare-medical.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-600 hover:underline"
