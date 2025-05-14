@@ -107,7 +107,7 @@ const HomePage = () => {
         
         <div className="w-full" data-aos="zoom-out">
           <img
-            src="https://res.cloudinary.com/dpuj2f1h3/image/upload/v1744380261/half_pic_p3b2kp.jpg"
+            src="https://res.cloudinary.com/dpuj2f1h3/image/upload/v1747229071/Jay1_ypljmc.jpg"
             alt="Adekanmi Profile"
             className="rounded-xl w-full object-cover shadow-lg cursor-pointer transition-transform duration-300 ease-in-out hover:scale-105"
           />
